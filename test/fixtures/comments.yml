@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  comment: MyString
+  commenter: MyString
+  rate: 1
+  banned: false
+
+two:
+  comment: MyString
+  commenter: MyString
+  rate: 1
+  banned: false
